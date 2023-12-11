@@ -1,0 +1,29 @@
+1 ]  home page : 
+		navigation bar [ home , watch collection , special price , contact us ]
+		new watch section [ slider ]
+		
+		special price section [ no animation ]
+
+		footer
+2]	watch collection 
+		ready [ bikepoint ]
+
+		footer
+
+3]  special price 
+		same as collection but style and visualization will be different
+
+		footer
+
+4]  form 
+		connected with collection and special price.
+		if user want to purchase anny watch then this page will be showed 
+		[ from nft ]
+
+		footer
+
+5 ] contact 
+		address 
+		social media accounts
+		email and tel
+	
